@@ -11,9 +11,9 @@ title                    : "Naveen Babu Krishnasamy Jeyakumar"
 title_separator          : "-"
 name                     : &name "Naveen Babu"
 description              : &description "MS Computer Engineering student @Texas A&M University"
-url                      : https://naveen-babu.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://naveenbabu29.github.io/naveen-babu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "naveen-babu/naveen-babu.github.io"
+repository               : "naveenbabu29/naveen-babu.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -80,15 +80,15 @@ analytics:
 
 # Site Author
 author:
-  name             : "Naveen Babu Krishnasamy Jeyakumar (he/him)"
-  avatar           : "Naveen_babu.jpg"
+  name             : "Naveen Babu (he/him)"
+  avatar           : #"Shriram_Image.jpg"
   bio              : "MS Computer Engineering student @Texas A&M University"
-  location         : "College Station, Texas, USA"
+  location         : "College Station, TX, USA"
   employer         :
-  pubmed           : 
-  googlescholar    : 
+  pubmed           : #"https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  googlescholar    : #"https://scholar.google.com/citations?hl=en&user=92OOewMAAAAJ&view_op=list_works&sortby=pubdate"
   email            : "nkj@tamu.edu"
-  researchgate     : 
+  researchgate     : #"https://www.researchgate.net/profile/Shriram-Raja"
   uri              :
   bitbucket        :
   codepen          :
@@ -96,20 +96,20 @@ author:
   flickr           :
   facebook         :
   foursquare       :
-  github           : "Naveen-Babu"
+  github           : #"Shriram-Raja"
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : 
+  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
   lastfm           :
-  linkedin         : "Naveen-Babu"
-  orcid            : 
+  linkedin         : #"shriram-raja"
+  orcid            : #"https://orcid.org/0000-0002-3123-3486"
   pinterest        :
   soundcloud       :
-  stackoverflow    : 
+  stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : 
+  twitter          : # "replacethistwitterhandle"
   vine             :
   weibo            :
   xing             :
