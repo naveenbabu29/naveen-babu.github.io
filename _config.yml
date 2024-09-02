@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "Naveen Babu Krishnasamy Jeyakumar"
 title_separator          : "-"
 name                     : &name "Naveen Babu"
-description              : &description "MS Computer Engineering student @Texas A&M University"
+description              : &description "MS Computer Engineering Student @Texas A&M University"
 url                      : https://naveenbabu29.github.io/naveen-babu.github.io/ # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "naveenbabu29/naveen-babu.github.io"
@@ -81,7 +81,7 @@ analytics:
 # Site Author
 author:
   name             : "Naveen Babu (he/him)"
-  avatar           : #"Shriram_Image.jpg"
+  avatar           : "Naveen_babu.JPG"
   bio              : "MS Computer Engineering student @Texas A&M University"
   location         : "College Station, TX, USA"
   employer         :
