@@ -15,8 +15,8 @@ main:
 #  - title: "Blog Posts"
 #    url: /year-archive/
     
-  - title: "CV"
+  - title: "CV (pdf)"
     url: /files/Naveen_Babu_Krishnasamy_Jeyakumar_Resume.pdf
     
-#  - title: "Guide"
-#    url: /markdown/
+ # - title: "Resources"
+ #   url: /resources/
