@@ -7,7 +7,7 @@ redirect_from:
   - /about.html
 ---
 
-I am an Embedded Software Engineer working at Qualcomm, Chennai in WiFi Domain. I completed my Bachelor's degree in Electrical and Electronics Engineering at PSG College of Technology, India in 2021.
+I am a Master’s student in Computer Engineering at Texas A&M University, College Station, with a Bachelor’s in Electrical and Electronics Engineering from PSG College of Technology, India (2021). I have 3 years of experience at Qualcomm, comprising of firmware engineering & networking, systems software, virtual memory, distributed systems, RTOS, multi-threading, and embedded software. I am actively seeking summer 2025 internship opportunities.
 
 ### Interests
 ___
