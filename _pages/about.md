@@ -27,5 +27,5 @@ ___
 As an astrophile, I find immense joy in exploring and delving into the mysteries of the universe and cosmology. I invite you to immerse yourself in the breathtaking beauty of the cosmos and expand your knowledge about its <a target="_blank" rel="noopener noreferrer" href="https://spaceplace.nasa.gov/constellations/en/">wonders 🌌🔭✨.</a>
 
 <p align="center">
-  <img src="/images/galaxy.jpg" alt="drawing" width="250"/>
+  <img src="/images/galaxy.jpg" alt="drawing" width="3798"/>
 </p>
